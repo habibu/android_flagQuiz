@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zaki/Documents/_Androids/FlagQuiz/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/zaki/Documents/_Androids/FlagQuiz/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zaki/Documents/_Androids/FlagQuiz/app/build/intermediates/res/merged/debug/layout/fragment_quiz.xml",
+        "source": "/Users/zaki/Documents/_Androids/FlagQuiz/app/src/main/res/layout/fragment_quiz.xml"
+    },
+    {
+        "merged": "/Users/zaki/Documents/_Androids/FlagQuiz/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/zaki/Documents/_Androids/FlagQuiz/app/src/main/res/layout/activity_settings.xml"
+    }
+]
